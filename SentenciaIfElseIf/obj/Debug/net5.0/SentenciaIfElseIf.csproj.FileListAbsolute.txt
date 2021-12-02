@@ -1,0 +1,15 @@
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.exe
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.deps.json
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.runtimeconfig.json
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.dll
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\bin\Debug\net5.0\ref\SentenciaIfElseIf.dll
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.pdb
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.AssemblyInfo.cs
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.dll
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\obj\Debug\net5.0\ref\SentenciaIfElseIf.dll
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.pdb
+C:\Users\vicen\source\repos\CS Course\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.genruntimeconfig.cache

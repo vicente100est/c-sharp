@@ -1,0 +1,16 @@
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\bin\Debug\net5.0\RetoIntroCS.exe
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\bin\Debug\net5.0\RetoIntroCS.deps.json
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\bin\Debug\net5.0\RetoIntroCS.runtimeconfig.json
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\bin\Debug\net5.0\RetoIntroCS.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\bin\Debug\net5.0\RetoIntroCS.dll
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\bin\Debug\net5.0\ref\RetoIntroCS.dll
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\bin\Debug\net5.0\RetoIntroCS.pdb
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\obj\Debug\net5.0\RetoIntroCS.csproj.AssemblyReference.cache
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\obj\Debug\net5.0\RetoIntroCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\obj\Debug\net5.0\RetoIntroCS.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\obj\Debug\net5.0\RetoIntroCS.AssemblyInfo.cs
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\obj\Debug\net5.0\RetoIntroCS.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\obj\Debug\net5.0\RetoIntroCS.dll
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\obj\Debug\net5.0\ref\RetoIntroCS.dll
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\obj\Debug\net5.0\RetoIntroCS.pdb
+C:\Users\vicen\source\repos\CS Course\RetoIntroCS\obj\Debug\net5.0\RetoIntroCS.genruntimeconfig.cache
